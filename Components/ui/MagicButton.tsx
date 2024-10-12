@@ -1,7 +1,7 @@
 import React from 'react'
 
 const MagicButton = ({
-title, icon, position,handleClick,otherclasses}:{
+title, icon, position,handleClick}:{
   title:string; icon:React.ReactNode;position:string;handleClick?:()=>void; otherclasses?:string;
   }) => {
   return (

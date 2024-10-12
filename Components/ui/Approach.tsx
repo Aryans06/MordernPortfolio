@@ -3,7 +3,7 @@ import React from "react";
 
 import { AnimatePresence, motion } from "framer-motion";
 import { CanvasRevealEffect } from "./CanvasRevealEffect";
-import { div } from "framer-motion/client";
+
 
 const Approach = ()=> {
   return (
@@ -52,7 +52,7 @@ const Approach = ()=> {
 }
 
 const Card = ({
-  title,
+  
   icon,
   children,
   description

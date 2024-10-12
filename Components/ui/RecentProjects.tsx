@@ -1,5 +1,5 @@
 import { projects } from '@/data'
-import { div } from 'framer-motion/client'
+
 import React from 'react'
 import { PinContainer } from './3d-pin'
 import { FaLocationArrow } from 'react-icons/fa'
